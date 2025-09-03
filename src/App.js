@@ -84,7 +84,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <h1>🍴 Ricette Facili</h1>
+      <h1>🍴 Spadelliamo!</h1>
 
       <div className="search-bar">
         <input
